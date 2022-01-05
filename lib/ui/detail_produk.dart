@@ -63,7 +63,7 @@ class _detail_produk_viewState extends State<detail_produk_view> {
                     /*decoration: BoxDecoration(
                         color: Colors.red,
                         borderRadius: BorderRadius.circular(50.0)),*/
-                    child: Image.asset('assets/iconsepatu.png')),
+                    child: Image.asset('assets/groceries.png')),
               ),
             ),
             const Padding(
